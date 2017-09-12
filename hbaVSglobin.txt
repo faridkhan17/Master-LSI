@@ -1,0 +1,23 @@
+|alpha-1_globin_sparus-aurata.fasta
+H                                  
+B                                  
+A                                  
+_                                  
+H                                  
+U                                  
+M                                  
+A                                  
+N                                  
+_                                  
+P                                  
+0                                  
+1                                  
+9                                  
+2                                  
+2                                  
+.                            *     
+f                             *    
+a                              *   
+s                               *  
+t                *    *    *     * 
+a                                  
